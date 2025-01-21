@@ -1,4 +1,4 @@
-name: LongDeploy
+name: Long deployment demo
 on: push
 jobs:
   lint:

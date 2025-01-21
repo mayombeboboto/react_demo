@@ -1,4 +1,4 @@
-name: ShortDeploy
+name: Short deployment demo
 on: push
 jobs:
   deploys:
